@@ -6,4 +6,4 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-# 悟已往之不谏，知来者之可追。
+### 悟已往之不谏，知来者之可追。
